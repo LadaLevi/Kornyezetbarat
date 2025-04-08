@@ -1,0 +1,50 @@
+.bala {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid black;
+  }
+
+  body {
+    background-color: #be1919; /* DarkGreen */
+    color: black; /* Alapértelmezett szövegszín */
+  }
+
+  a:link, a:visited, a:hover, a:active {
+    color: #006400; /* DarkGreen */
+  }
+
+  table {
+    width: 100%;
+    margin: auto;
+    background-color: #98FB98; /* PaleGreen */
+    border-collapse: separate;
+    border-spacing: 3px;
+  }
+
+  td {
+    vertical-align: top;
+  }
+
+  .left {
+    width: 150px;
+    text-align: center;
+    vertical-align: top;
+  }
+
+  .centered-img {
+    display: block;
+    margin: 10px auto;
+  }
+
+  hr {
+    width: 50%;
+    margin: auto;
+  }
+
+  h2 {
+    color: #006400;
+  }
+
+  h4 {
+    margin-top: 20px;
+  }
